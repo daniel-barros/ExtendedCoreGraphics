@@ -5,6 +5,7 @@
 
 Extensions for the CoreGraphics framework.
 
+Check out [ExtendedUIKit](https://github.com/daniel-barros/ExtendedUIKit) if you are interested in UIKit extensions.
 
 ## Installation
 
