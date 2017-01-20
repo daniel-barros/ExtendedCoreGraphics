@@ -3,7 +3,7 @@
 ![Platform](https://img.shields.io/badge/platforms-iOS%209.0+%20%7C%20macOS%2010.10+%20%7C%20tvOS%209.0+%20%7C%20watchOS%202.0+-333333.svg)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-Extensions for the Foundation framework.
+Extensions for the CoreGraphics framework.
 
 
 ## Installation
