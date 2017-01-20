@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "33B761A61E3277F80083099F"
-               BuildableName = "ExtendedCoreGraphics.framework"
-               BlueprintName = "ExtendedCoreGraphics iOS"
+               BlueprintIdentifier = "33B761D61E327B880083099F"
+               BuildableName = "ExtendedCoreGraphics macOS.framework"
+               BlueprintName = "ExtendedCoreGraphics macOS"
                ReferencedContainer = "container:ExtendedCoreGraphics.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "33B761A61E3277F80083099F"
-            BuildableName = "ExtendedCoreGraphics.framework"
-            BlueprintName = "ExtendedCoreGraphics iOS"
+            BlueprintIdentifier = "33B761D61E327B880083099F"
+            BuildableName = "ExtendedCoreGraphics macOS.framework"
+            BlueprintName = "ExtendedCoreGraphics macOS"
             ReferencedContainer = "container:ExtendedCoreGraphics.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "33B761A61E3277F80083099F"
-            BuildableName = "ExtendedCoreGraphics.framework"
-            BlueprintName = "ExtendedCoreGraphics iOS"
+            BlueprintIdentifier = "33B761D61E327B880083099F"
+            BuildableName = "ExtendedCoreGraphics macOS.framework"
+            BlueprintName = "ExtendedCoreGraphics macOS"
             ReferencedContainer = "container:ExtendedCoreGraphics.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

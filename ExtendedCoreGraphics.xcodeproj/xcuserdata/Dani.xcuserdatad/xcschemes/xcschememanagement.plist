@@ -4,6 +4,21 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>ExtendedCoreGraphics macOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>ExtendedCoreGraphics tvOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>ExtendedCoreGraphics watchOS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>ExtendedCoreGraphics.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -13,6 +28,21 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>33B761A61E3277F80083099F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>33B761BC1E3279190083099F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>33B761C91E3279260083099F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>33B761D61E327B880083099F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
