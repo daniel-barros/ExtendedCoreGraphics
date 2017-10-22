@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ExtendedCoreGraphics"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "Extensions for the Core Graphics framework."
   s.homepage     = "https://github.com/daniel-barros/ExtendedCoreGraphics"
   s.license      = { :type => "MIT", :file => "LICENSE.md" }
